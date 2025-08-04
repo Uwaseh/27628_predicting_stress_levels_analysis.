@@ -41,6 +41,9 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 -  Removed duplicates and outliers
 -  Standardized categorical variables using Label Encoding
 
+  ![c](screenshot/powerBI.PNG)
+
+
 ### 2.  Exploratory Data Analysis
 - **Stress Level Distribution**: Relatively balanced across categories
 - **Age Distribution**: Normal distribution (mean ~41 years)
