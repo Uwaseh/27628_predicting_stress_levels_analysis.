@@ -41,7 +41,9 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 -  Removed duplicates and outliers
 -  Standardized categorical variables using Label Encoding
 
-  ![c](screenshot/powerBI.PNG)
+  ![cleaning](screenshot/cleaning.PNG)
+![filtering](screenshot/filtering.PNG)
+
 
 
 ### 2.  Exploratory Data Analysis
@@ -57,8 +59,10 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 ##  Visualizations
 
 ### Power BI Dashboard Screenshots
+ ![powerBI](screenshot/dashboard.PNG)
+## AI visuals
+ ![AI](screenshot/AI.PNG)
 
-![Mental Health Dashboard](https://raw.githubusercontent.com/yourusername/mental-health-analysis/main/screenshots/dashboard_overview.png)
 *Main dashboard showing key metrics and stress level distributions*
 
 ![Detailed Analysis](https://raw.githubusercontent.com/yourusername/mental-health-analysis/main/screenshots/detailed_analysis.png)
