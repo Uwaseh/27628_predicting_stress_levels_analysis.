@@ -43,6 +43,7 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 
   ![cleaning](screenshot/cleaning.PNG)
 ![filtering](screenshot/filtering.PNG)
+![filtering](screenshot/encodes.PNG)
 
 
 
