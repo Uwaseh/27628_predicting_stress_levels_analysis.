@@ -43,7 +43,7 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 
   ![cleaning](screenshot/cleaning.PNG)
 ![filtering](screenshot/filtering.PNG)
-![filtering](screenshot/encodes.PNG)
+![fig](screenshot/encode.PNG)
 ![num](screenshot/numeric.PNG)
 
 
@@ -54,6 +54,8 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 - **Stress Level Distribution**: Relatively balanced across categories
 - **Age Distribution**: Normal distribution (mean ~41 years)
 - **Correlation Analysis**: Lifestyle factors relationships visualization
+  ![gender](screenshot/gender.PNG)
+
 
 ### 3.  Machine Learning Models
 - **Random Forest Classifier**: Ensemble method for robust predictions
