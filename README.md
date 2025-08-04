@@ -1,5 +1,5 @@
 # 27628_predicting_stress_levels_analysis.
-This project predicts stress levels using workplace and lifestyle factors to identify high-risk individuals for mental health support. It combines machine learning (Python) with an interactive Power BI dashboard for insights and early intervention.
+This project predicts stress levels using workplace and lifestyle factors to identify high-risk niche for mental health support. It combines machine learning (Python) with an interactive Power BI dashboard for insights and early intervention.
 # stress level Data Analysis Project 
 
 ##  Dataset Description
@@ -32,12 +32,8 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 - **83K** total physical activity hours
 - Balanced distribution across stress levels and demographics
 
-###  Model Performance
-- **Random Forest Accuracy**: ~50%
-- **Ensemble Model Accuracy**: ~50.2%
-- Balanced precision and recall across classes
 
-## 🔧 Analysis Components
+## Analysis Components
 
 ### 1.  Data Preprocessing
 -  Cleaned dataset with 50,001 records
