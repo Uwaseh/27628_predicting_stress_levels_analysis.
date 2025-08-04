@@ -71,6 +71,11 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 ## dax formlula
 ![dax](screenshot/daxformula.PNG)
 ![dax](screenshot/dax2.PNG).
+## slicer
+![slicer](screenshot/slicer.PNG).
+##tooltips
+![tooltips](screenshot/tooltips.PNG).
+
 
 ###  Key Charts Include:
 - Stress Level by Country (Geographic distribution)
