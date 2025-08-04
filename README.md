@@ -61,15 +61,10 @@ The dataset contains **50,000 records** with **15 features** related to mental h
 ### Power BI Dashboard Screenshots
  ![powerBI](screenshot/dashboard.PNG)
 ## AI visuals
- ![AI](screenshot/AI.PNG)
-
-*Main dashboard showing key metrics and stress level distributions*
-
-![Detailed Analysis](https://raw.githubusercontent.com/yourusername/mental-health-analysis/main/screenshots/detailed_analysis.png)
-*Detailed breakdown by occupation and sleep patterns*
-
-![Data Insights](https://raw.githubusercontent.com/yourusername/mental-health-analysis/main/screenshots/sleep_analysis.png)
-*Sleep hours analysis and demographic insights*
+ ![AI](screenshot/aivisuals.PNG)
+## dax formlula
+![dax](screenshot/daxformula.PNG)
+![dax](screenshot/dax2.PNG).
 
 ###  Key Charts Include:
 - Stress Level by Country (Geographic distribution)
